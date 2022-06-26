@@ -42,6 +42,13 @@ hr { border : 1px solid rgb(48, 6, 199); }
     flex-wrap: wrap;
 }
 
+div#container>div{
+    
+    background-color: azure;
+    padding: 20px;
+    margin: 10px;
+}
+
 aside{
     flex-grow: 1;
     background-color: #fff2fa;
